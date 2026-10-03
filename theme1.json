@@ -240,7 +240,7 @@
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
-    "position": : 100% 10%,
+    "position": "center",
   },
   "plus": {
     "version": "0",
