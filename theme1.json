@@ -160,7 +160,7 @@
       "#000000"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#000000"
+      "#ddddd"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "#FFFFFF"
@@ -240,7 +240,7 @@
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
-    "position": "left"
+    "position": 0.15,
   },
   "plus": {
     "version": "0",
