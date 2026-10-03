@@ -77,11 +77,11 @@
 "BG_MOD_FAINT": ["#090909"],
 "KEYBOARD": ["#00566b"],
 
-"BACKGROUND_MESSAGE_HIGHLIGHT": ["#082A45"],
-"BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": ["#0B3555"],
-"BACKGROUND_MESSAGE_REPLY": ["#082A45"],
-"BACKGROUND_MESSAGE_REPLY_HOVER": ["#0B3555"]
-
+"BACKGROUND_MESSAGE_HIGHLIGHT": ["#00A7D240"],
+"BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": ["#00A7D260"],
+"BACKGROUND_MESSAGE_REPLY": ["#00A7D240"],
+"BACKGROUND_MESSAGE_REPLY_HOVER": ["#00A7D260"]
+  
 },
 "rawColors": {
 "PRIMARY_200": "#00a7d2",
@@ -147,7 +147,7 @@
 "plus": {
 "version": "0",
 "iconPack": "rosiecord-plumpy",
-"mentionLineColor": "#FF0000",
+"mentionLineColor": "#00FFE7",
 "customOverlays": true,
 "icons": {
 "trash": "#0094ba",
