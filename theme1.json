@@ -236,11 +236,11 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/Agilstepdino/agilstepdino.github.io/refs/heads/main/IMG_20260402_083016.png",
+    "url": "https://raw.githubusercontent.com/Agilstepdino/agilstepdino.github.io/refs/heads/main/IMG_20261004_004436.jpg",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
-    "position": "center"
+    "position": "left"
   },
   "plus": {
     "version": "0",
