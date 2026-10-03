@@ -77,10 +77,10 @@
 "BG_MOD_FAINT": ["#090909"],
 "KEYBOARD": ["#00566b"],
 
-"BACKGROUND_MESSAGE_HIGHLIGHT": ["#00A7D240"],
-"BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": ["#00A7D260"],
-"BACKGROUND_MESSAGE_REPLY": ["#00A7D240"],
-"BACKGROUND_MESSAGE_REPLY_HOVER": ["#00A7D260"]
+"BACKGROUND_MESSAGE_HIGHLIGHT": ["#00FFE730"],
+"BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": ["#00FFE750"],
+"BACKGROUND_MESSAGE_REPLY": ["#00FFE730"],
+"BACKGROUND_MESSAGE_REPLY_HOVER": ["#00FFE750"]
   
 },
 "rawColors": {
@@ -143,19 +143,20 @@
 "url": "https://raw.githubusercontent.com/Agilstepdino/agilstepdino.github.io/refs/heads/main/IMG_20261004_011639.png",
 "position": "center",
 "blur": 2.0
-},
-"plus": {
-"version": "0",
-"iconPack": "rosiecord-plumpy",
-"mentionLineColor": "#00FFE7",
-"customOverlays": true,
-"icons": {
-"trash": "#0094ba",
-"TrashIcon": "#0094ba",
-"TriangleExclamationPointIcon": "#007fa0",
-"toast_copy_link": "#00a7d2",
-"toast_copy_message": "#feffff",
-"toast_image_saved": "#feffff"
+  
+"plus" {: 
+  "version": "0",
+  "iconPack": "rosiecord-plumpy",
+  "mentionLineColor": "#00FFE7",
+  "customOverlays": true,
+  "icons": {
+    "trash": "#0094ba",
+    "TrashIcon": "#0094ba",
+    "TriangleExclamationPointIcon": "#007fa0",
+    "toast_copy_link": "#00a7d2",
+    "toast_copy_message": "#feffff",
+    "toast_image_saved": "#feffff"
+  }
 }
 },
 "spec": 2
