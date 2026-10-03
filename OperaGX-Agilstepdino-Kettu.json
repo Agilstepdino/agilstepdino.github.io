@@ -1,0 +1,148 @@
+{
+  "name": "Opera GX - Agilstepdino",
+  "description": "Opera GX inspired neon cyan Discord theme converted from CSS for Kettu/Vendetta theme spec 2.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Converted from supplied CSS"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#FAFDFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#C9CBCE"
+    ],
+    "TEXT_NORMAL": [
+      "#C9CBCE"
+    ],
+    "TEXT_MUTED": [
+      "#72767D"
+    ],
+    "TEXT_LINK": [
+      "#00B0F4"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#03A9F4"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#00FFE7"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#00FFE7"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#72767D"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#08050E"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#08050E"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#08050E"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#03A9F4"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#08050E"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#08050E"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#08050E"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#08050E"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#08050E"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#08050E"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#08050E"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#08050E"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#03A9F4"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#03A9F4"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#08050E"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#00FFE7"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#08050E"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#08050E"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#72767D"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#C9CBCE"
+    ],
+    "CHANNEL_ICON": [
+      "#C9CBCE"
+    ],
+    "TEXT_DANGER": [
+      "#B5203F"
+    ],
+    "KEYBOARD": [
+      "#08050E"
+    ],
+    "CHAT_BACKGROUND": [
+      "#08050E"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#08050E"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#000000"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#FAFDFF",
+    "PRIMARY_200": "#C9CBCE",
+    "PRIMARY_300": "#03A9F4",
+    "PRIMARY_360": "#00FFE7",
+    "PRIMARY_400": "#03A9F4",
+    "PRIMARY_500": "#00FFE7",
+    "PRIMARY_600": "#08050E",
+    "PRIMARY_630": "#08050E",
+    "PRIMARY_660": "#08050E",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#08050E",
+    "BRAND_260": "#03A9F4",
+    "BRAND_360": "#03A9F4",
+    "BRAND_500": "#03A9F4",
+    "BRAND_560": "#00FFE7",
+    "WHITE_500": "#FAFDFF",
+    "YELLOW_300": "#EAEA22",
+    "GREEN_360": "#00D451",
+    "RED_400": "#B5203F"
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/Agilstepdino/agilstepdino.github.io/refs/heads/main/IMG_20261004_011639.png",
+    "alpha": 0.5,
+    "color": "#08050E"
+  }
+}
