@@ -144,7 +144,7 @@
 "position": "center",
 "blur": 2.0
   
-"plus" {: 
+"plus": {
   "version": "0",
   "iconPack": "rosiecord-plumpy",
   "mentionLineColor": "#00FFE7",
