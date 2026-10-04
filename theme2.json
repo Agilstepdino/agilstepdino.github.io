@@ -146,7 +146,7 @@
 "plus": {
 "version": "0",
 "iconPack": "rosiecord-plumpy",
-"mentionLineColor": "#FF0000",
+"mentionLineColor": "#00FFE7",
 "customOverlays": true,
 "icons": {
 "trash": "#0094ba",
