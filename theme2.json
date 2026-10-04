@@ -138,4 +138,24 @@
 "NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
 "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
 },
-"background": { "blur": 2.0, "url": "https://raw.githubusercontent.com/Agilstepdino/agilstepdino.github.io/refs/heads/main/IMG_20261004_011639.png", "position": "center" }, "plus": { "version": "0", "iconPack": "rosiecord-plumpy", "mentionLineColor": "#FF0000", "customOverlays": true, "icons": { "trash": "#0094ba", "TrashIcon": "#0094ba", "TriangleExclamationPointIcon": "#007fa0", "toast_copy_link": "#00a7d2", "toast_copy_message": "#feffff", "toast_image_saved": "#feffff" } }, "spec": 2 }
+"background": {
+"blur": 2.0,
+"url": "https://raw.githubusercontent.com/Agilstepdino/agilstepdino.github.io/refs/heads/main/IMG_20261004_011639.png",
+"position": "center"
+},
+"plus": {
+"version": "0",
+"iconPack": "rosiecord-plumpy",
+"mentionLineColor": "#FF0000",
+"customOverlays": true,
+"icons": {
+"trash": "#0094ba",
+"TrashIcon": "#0094ba",
+"TriangleExclamationPointIcon": "#007fa0",
+"toast_copy_link": "#00a7d2",
+"toast_copy_message": "#feffff",
+"toast_image_saved": "#feffff"
+}
+},
+"spec": 2
+}
